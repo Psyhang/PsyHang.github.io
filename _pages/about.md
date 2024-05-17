@@ -19,43 +19,56 @@ redirect_from:
 
 Hi there 👋.
 
-My research interest lies in the intersection of socail psychology, neuroscience and AI. 
-I have published some papers at the top educational journal with total <a href='https://scholar.google.com/citations?user=DI1-2PwAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DI1-2PwAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a master student in social psychology at Renmin University of China.
 
+My research interest lies in the intersection of social psychology, neuroscience and AI. 
+ <a href='https://scholar.google.com/citations?user=DI1-2PwAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+# 📖 Educations
+- *2022.09 - present*,     Master student, Department of Psychology, Renmin University of China
+- *2018.09 - 2022.06*, Undergraduate, Department of Psychology, School of Science, Renmin University of China
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 A paper was finally accepted by Acta Psychologica after being rejected 11 times! 
-- *2023.12*: &nbsp;🎉🎉 A paper was accepted by Brain Sciences after being rejected 3 times!
-- *2023.03*: &nbsp;🎉🎉 A paper modified from my undergraduate thesis was accepted by after Computers & Education!
-- *2023.03*: &nbsp; 🎓 I got the Bachelor of Science degree in Applied Psychology ❗ 
+- *2024.03*: &nbsp;🎉A paper was finally accepted by Acta Psychologica after being rejected 11 times! 
+- *2023.12*: &nbsp;🎉A paper was accepted by Brain Sciences after being rejected 3 times!
+- *2023.03*: &nbsp;🎉My first paper modified from my undergraduate thesis was accepted by Computers & Education!
+- *2022.06*: &nbsp;🎓I got the Bachelor of Science degree in Applied Psychology 🎊 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Acta Psychologica</div><img src='images/childhood.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Childhood environmental unpredictability and hoarding: Mediating roles of attachment and security](https://doi.org/10.1016/j.actpsy.2024.10419)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Hang Ma<sup>1<sup>, **Yuhang Wu<sup>1<sup>**, Xiaojun Lv, Xiaofan Yang, Ping Hu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DI1-2PwAAAAJ&authuser=1&citation_for_view=DI1-2PwAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DI1-2PwAAAAJ:qjMakFHDy7sC'></span></strong>
+-  In this study, we embrace a multi-level theoretical integration, incorporating life history theory, psychosocial acceleration theory, attachment theory, cognitive-behavioral models, and compensation theory, to explore the key roles of childhood environmental unpredictability, attachment, and sense of security in the development of hoarding. 🔥
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Brain Sciences</div><img src='images/EEGmimicry.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[The Neural Mechanisms of Group Membership Effect on Emotional Mimicry: A Multimodal Study Combining Electromyography and Electroencephalography](https://doi.org/10.3390/brainsci14010025)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Beibei Kuang, Shenli Peng, **Yuhang Wu**, Ying ChenXiao, Ping Hu
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DI1-2PwAAAAJ&authuser=1&citation_for_view=DI1-2PwAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DI1-2PwAAAAJ:2osOgNQ5qMEC'></span></strong>
+-  We explored whether and how group membership modulated emotional mimicry using a multimodal method combining facial electromyography (fEMG) and electroencephalography (EEG).  🔥
+</div>
+</div>
+
+
+# 🏆 Honors and Awards
+- National Scholarship (Top 1%), 2023
+- The First-Class Scholarship for Academic Excellence, Renmin University of China, 2023
+- The Third-Class Scholarship for Academic Excellence, Renmin University of China, 2019 and 2020 
+
+# 💬 Conferences and Seminars
+- *2021.05*, Excellent Oral Presentation at the Doctoral Forum of Beijing University’s School of Psychology and Cognitive Science
+- *2020.12*, Second Prize in the 4th Academic Speech Competition in School of Science, Renmin University of China (Topic: “Brain-Computer Interfaces and Our Future”) \| [\[video\]](https://www.bilibili.com/video/BV1jw411o7vp/?spm_id_from=333.999.0.0&vd_source=39145d732d0a82fb333be502ffca2133/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
