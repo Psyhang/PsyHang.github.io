@@ -41,7 +41,7 @@ My research interest lies in the intersection of social psychology, neuroscience
 
 [Childhood environmental unpredictability and hoarding: Mediating roles of attachment and security](https://doi.org/10.1016/j.actpsy.2024.10419)
 
-Hang Ma^1, **Yuhang Wu^1**, Xiaojun Lv, Xiaofan Yang, Ping Hu
+Hang Ma<sup>1</sup>, **Yuhang Wu<sup>1</sup>**, Xiaojun Lv, Xiaofan Yang, Ping Hu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DI1-2PwAAAAJ&authuser=1&citation_for_view=DI1-2PwAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DI1-2PwAAAAJ:qjMakFHDy7sC'></span></strong>
 -  We embrace a multi-level theoretical integration, incorporating life history theory, psychosocial acceleration theory, attachment theory, cognitive-behavioral models, and compensation theory, to explore the key roles of childhood environmental unpredictability, attachment, and sense of security in the development of hoarding. 🔥
@@ -72,7 +72,7 @@ Beibei Kuang, Shenli Peng, **Yuhang Wu**, Ying ChenXiao, Ping Hu
 </div>
 </div>
 
-Xue, J., Xu, X., Wu, Y., & Hu, P. (2023). Student perceptions of the community of inquiry framework and satisfaction: Examining the role of academic emotion and self-regulation in a structural model. Frontiers in Education, 8. [https://doi.org/10.3389/feduc.2023.1046737](https://doi.org/10.3389/feduc.2023.1046737)  <a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DI1-2PwAAAAJ&authuser=1&citation_for_view=DI1-2PwAAAAJ:9yKSN-GCB0IC'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citation_for_view"></a>
+Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the community of inquiry framework and satisfaction: Examining the role of academic emotion and self-regulation in a structural model. Frontiers in Education, 8. [https://doi.org/10.3389/feduc.2023.1046737](https://doi.org/10.3389/feduc.2023.1046737)  <a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DI1-2PwAAAAJ&authuser=1&citation_for_view=DI1-2PwAAAAJ:9yKSN-GCB0IC'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🏆 Honors and Awards
 - National Scholarship (Top 1%), 2023
@@ -85,3 +85,7 @@ Xue, J., Xu, X., Wu, Y., & Hu, P. (2023). Student perceptions of the community o
 
 # 💻 Internships
 - *2024.02 - Present*, [Human Emotion Systems Laboratory](https://emotion.utu.fi/), Turku PET Center, Turku, Finland
+
+# 📷 Galleries
+- *2020.12*, [Social psychology field experiment: Crowd flow and helping behavior](https://www.bilibili.com/video/BV1Ci4y1c7AL/?spm_id_from=333.999.0.0&vd_source=39145d732d0a82fb333be502ffca2133)
+- *2020.02*, [Discussion on the Ethics of Animal Research](https://space.bilibili.com/455902031?spm_id_from=333.1365.0.0)
