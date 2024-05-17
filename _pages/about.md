@@ -22,7 +22,7 @@ Hi there 👋.
 I am currently a master student in social psychology at Renmin University of China.
 
 My research interest lies in the intersection of social psychology, neuroscience and AI. 
- <a href='https://scholar.google.com/citations?user=DI1-2PwAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+ <a href='https://scholar.google.com/citations?user=DI1-2PwAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📖 Educations
 - *2022.09 - present*,     Master student, Department of Psychology, Renmin University of China
@@ -72,7 +72,7 @@ Beibei Kuang, Shenli Peng, **Yuhang Wu**, Ying ChenXiao, Ping Hu
 </div>
 </div>
 
-Xue, J., Xu, X., Wu, Y., & Hu, P. (2023). Student perceptions of the community of inquiry framework and satisfaction: Examining the role of academic emotion and self-regulation in a structural model. Frontiers in Education, 8. https://doi.org/10.3389/feduc.2023.1046737
+Xue, J., Xu, X., Wu, Y., & Hu, P. (2023). Student perceptions of the community of inquiry framework and satisfaction: Examining the role of academic emotion and self-regulation in a structural model. Frontiers in Education, 8. [https://doi.org/10.3389/feduc.2023.1046737](https://doi.org/10.3389/feduc.2023.1046737)  <a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DI1-2PwAAAAJ&authuser=1&citation_for_view=DI1-2PwAAAAJ:9yKSN-GCB0IC'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🏆 Honors and Awards
 - National Scholarship (Top 1%), 2023
