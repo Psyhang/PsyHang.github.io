@@ -94,44 +94,56 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
 
 # 💪 Push! 
 
-<h3>Push</h3>
-<p>My classmate <a href="https://www.researchgate.net/profile/Jiayi-Jiang-13">Jiayi Jiang</a> is a also master student candidate at RUC.<br />
+## About Me
+
+（你原来的内容）
+
+<p>My classmate <a href="https://www.researchgate.net/profile/Jiayi-Jiang-13">Jiayi Jiang</a> is also a master student candidate at RUC.<br />
 He is hardworking, but that's not enough! Click the following buttons to push him!</p> 
 
-<button type="button" onclick="push()">Push me!</button> 
-<button type="button" onclick="pushHard()">Push him hard!</button>
+<button type="button" onclick="pushJiayi()">Push Jiayi!</button> 
+<button type="button" onclick="pushHardJiayi()">Push Jiayi hard!</button>
+<br>
+<button type="button" onclick="pushYuhang()">Push Yuhang!</button> 
 
 <script>
-  var c = 0;
-  var d = 0;
+  var jiayiCount = 0;
+  var yuhangCount = 0;
+  var jiayiTimeout;
 
-  function timedCount() {
-    c = c + 1;
-    document.getElementById('count').innerHTML = "You have pushed Jiayi " + c + " times.";
-    t = setTimeout(function() {
-      timedCount()
+  function timedCountJiayi() {
+    jiayiCount = jiayiCount + 1;
+    document.getElementById('jiayiCount').innerHTML = "You have pushed Jiayi " + jiayiCount + " times.";
+    jiayiTimeout = setTimeout(function() {
+      timedCountJiayi()
     }, 2000); // 调整这个值来改变自动推送的速度
   }
 
-  function push() {
-    d = d + 1;
-    document.getElementById('count').innerHTML = "You have pushed Yuhang " + d + " times.";
+  function pushJiayi() {
+    jiayiCount = jiayiCount + 1;
+    document.getElementById('jiayiCount').innerHTML = "You have pushed Jiayi " + jiayiCount + " times.";
   }
 
-  function pushHard() {
-    timedCount();
+  function pushHardJiayi() {
+    clearTimeout(jiayiTimeout);
+    timedCountJiayi();
+  }
+
+  function pushYuhang() {
+    yuhangCount = yuhangCount + 1;
+    document.getElementById('yuhangCount').innerHTML = "You have pushed Yuhang " + yuhangCount + " times.";
   }
 </script>
 
 <div class="infoblock">
   <div class="blockcontent">
-    <p id="count">You have pushed Jiayi 0 times.</p>
+    <p id="jiayiCount">You have pushed Jiayi 0 times!</p>
   </div>
 </div>
 
 <div class="infoblock">
   <div class="blockcontent">
-    <p id="count">You have pushed Yuhang 0 times.</p>
+    <p id="yuhangCount">You have pushed Yuhang 0 times!</p>
   </div>
 </div>
 
