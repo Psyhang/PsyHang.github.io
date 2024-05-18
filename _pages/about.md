@@ -89,3 +89,44 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
 # 📷 Galleries
 - *2020.12*, [Social psychology field experiment: Crowd flow and helping behavior](https://www.bilibili.com/video/BV1Ci4y1c7AL/?spm_id_from=333.999.0.0&vd_source=39145d732d0a82fb333be502ffca2133)
 - *2020.02*, [Discussion on the Ethics of Animal Research](https://space.bilibili.com/455902031?spm_id_from=333.1365.0.0)
+
+
+
+
+# Push me!
+
+<h3>Push</h3>
+<p>My friend <a href="https://alisomia.github.io/website/">Ting Lin</a> is a PhD candidate at Peking University.<br />
+He is hardworking, but that's not enough! Click the following buttons to push him!</p> 
+
+<button type="button" onclick="push()">Push</button> 
+<button type="button" onclick="pushHard()">Push hard!</button>
+
+<script>
+  var c = 0;
+
+  function timedCount() {
+    c = c + 1;
+    document.getElementById('count').innerHTML = "You have pushed Ting " + c + " times.";
+    t = setTimeout(function() {
+      timedCount()
+    }, 2000); // 调整这个值来改变自动推送的速度
+  }
+
+  function push() {
+    c = c + 1;
+    document.getElementById('count').innerHTML = "You have pushed Ting " + c + " times.";
+  }
+
+  function pushHard() {
+    timedCount();
+  }
+</script>
+
+<div class="infoblock">
+  <div class="blockcontent">
+    <p id="count">You have pushed Ting 0 times.</p>
+  </div>
+</div>
+
+<hr />
