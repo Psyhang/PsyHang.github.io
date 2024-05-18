@@ -121,12 +121,15 @@ He is hardworking, but that's not enough! Click the following buttons to push hi
   var jiayiTimeout;
 
   function timedCountJiayi() {
-    jiayiCount = jiayiCount + 1;
-    document.getElementById('jiayiCount').innerHTML = "You have pushed Jiayi " + jiayiCount + " times!";
-    jiayiTimeout = setTimeout(function() {
-      timedCountJiayi()
-    }, 50); // 调整这个值来改变自动推送的速度
-  }
+    if (jiayiCount &lt; 500) {
+      jiayiCount = jiayiCount + 1;
+      document.getElementById('jiayiCount').innerHTML = "You have pushed Jiayi " + jiayiCount + " times!";
+      jiayiTimeout = setTimeout(function() {
+        timedCountJiayi()
+      }, 50); // 调整这个值来改变自动推送的速度
+    } else {
+      document.getElementById('jiayiCount').innerHTML = "You have pushed Jiayi the maximum number of times! Let him rest!";
+    }
 
   function pushHardJiayi() {
     clearTimeout(jiayiTimeout);
