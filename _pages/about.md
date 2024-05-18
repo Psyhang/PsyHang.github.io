@@ -121,7 +121,7 @@ He is hardworking, but that's not enough! Click the following buttons to push hi
   var jiayiTimeout;
 
   function timedCountJiayi() {
-    if (jiayiCount &lt; 500) {
+    if (jiayiCount < 200) {
       jiayiCount = jiayiCount + 1;
       document.getElementById('jiayiCount').innerHTML = "You have pushed Jiayi " + jiayiCount + " times!";
       jiayiTimeout = setTimeout(function() {
