@@ -130,6 +130,7 @@ He is hardworking, but that's not enough! Click the following buttons to push hi
     } else {
       document.getElementById('jiayiCount').innerHTML = "You have pushed Jiayi the maximum number of times! Let him rest!";
     }
+  }
 
   function pushHardJiayi() {
     clearTimeout(jiayiTimeout);
