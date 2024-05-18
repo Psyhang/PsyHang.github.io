@@ -92,30 +92,30 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
 
 
 
-
-# Push me!
+# 💪 Push! 
 
 <h3>Push</h3>
-<p>My friend <a href="https://alisomia.github.io/website/">Ting Lin</a> is a PhD candidate at Peking University.<br />
+<p>My classmate <a href="https://www.researchgate.net/profile/Jiayi-Jiang-13">Jiayi Jiang</a> is a also master student candidate at RUC.<br />
 He is hardworking, but that's not enough! Click the following buttons to push him!</p> 
 
-<button type="button" onclick="push()">Push</button> 
-<button type="button" onclick="pushHard()">Push hard!</button>
+<button type="button" onclick="push()">Push me!</button> 
+<button type="button" onclick="pushHard()">Push him hard!</button>
 
 <script>
   var c = 0;
+  var d = 0;
 
   function timedCount() {
     c = c + 1;
-    document.getElementById('count').innerHTML = "You have pushed Ting " + c + " times.";
+    document.getElementById('count').innerHTML = "You have pushed Jiayi " + c + " times.";
     t = setTimeout(function() {
       timedCount()
     }, 2000); // 调整这个值来改变自动推送的速度
   }
 
   function push() {
-    c = c + 1;
-    document.getElementById('count').innerHTML = "You have pushed Ting " + c + " times.";
+    d = d + 1;
+    document.getElementById('count').innerHTML = "You have pushed Yuhang " + d + " times.";
   }
 
   function pushHard() {
@@ -125,7 +125,13 @@ He is hardworking, but that's not enough! Click the following buttons to push hi
 
 <div class="infoblock">
   <div class="blockcontent">
-    <p id="count">You have pushed Ting 0 times.</p>
+    <p id="count">You have pushed Jiayi 0 times.</p>
+  </div>
+</div>
+
+<div class="infoblock">
+  <div class="blockcontent">
+    <p id="count">You have pushed Yuhang 0 times.</p>
   </div>
 </div>
 
