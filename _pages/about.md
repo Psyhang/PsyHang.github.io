@@ -101,17 +101,12 @@ He is hardworking, but that's not enough! Click the following buttons to push hi
 <div class="push-container">
   <div class="push-buttons">
     <button type="button" onclick="pushHardJiayi()">Push Jiayi!</button>
+    <button type="button" onclick="pushYuhang()">Push Yuhang!</button>
   </div>
   <div class="infoblock">
     <p id="jiayiCount">You have pushed Jiayi 0 times!</p>
   </div>
-</div>
-
-<div class="push-container">
-  <div class="push-buttons">
-    <button type="button" onclick="pushYuhang()">Push Yuhang!</button>
-  </div>
-  <div class="infoblock">
+    <div class="infoblock">
     <p id="yuhangCount">You have pushed Yuhang 0 times!</p>
   </div>
 </div>
