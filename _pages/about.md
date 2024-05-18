@@ -92,7 +92,7 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
 
 <!-- 在适当的位置添加嵌入的播放窗口 -->
 <div class="embed-container">
-  <iframe width="560" height="315" src="https://www.bilibili.com/video/BV1Ci4y1c7AL/?spm_id_from=333.999.0.0&vd_source=39145d732d0a82fb333be502ffca2133" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=543220614&bvid=BV1Ci4y1c7AL&cid=267880090&p=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
 
