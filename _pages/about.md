@@ -144,3 +144,5 @@ He is hardworking, but that's not enough! Click the following buttons to push hi
 </script>
 
 <hr />
+
+Last updated: 18/05/2024
