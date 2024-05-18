@@ -90,7 +90,7 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
 - *2020.12*, [Social psychology field experiment: Crowd flow and helping behavior](https://www.bilibili.com/video/BV1Ci4y1c7AL/?spm_id_from=333.999.0.0&vd_source=39145d732d0a82fb333be502ffca2133)
 <!-- 在适当的位置添加嵌入的播放窗口 -->
 <div class="embed-container">
-  <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=543220614&bvid=BV1Ci4y1c7AL&cid=267880090&p=1&high_quality=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+  <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=543220614&bvid=BV1Ci4y1c7AL&cid=267880090&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
 - *2020.02*, [Discussion on the Ethics of Animal Research](https://space.bilibili.com/455902031?spm_id_from=333.1365.0.0)
