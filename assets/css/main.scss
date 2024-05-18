@@ -115,11 +115,16 @@ h1:before, .anchor:before {
     border: 1px solid #ddd;
     border-radius: 4px;
     text-align: center;
+}
 
-    .push-buttons {
-        margin-bottom: 1em;
-    }
+.push-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    margin-bottom: 1em;
+}
 
+.infoblock {
     .blockcontent {
         font-size: 1.2em;
         color: #333;

@@ -100,13 +100,10 @@ He is hardworking, but that's not enough! Click the following buttons to push hi
 
 <div class="push-container">
   <div class="push-buttons">
-    <button type="button" onclick="pushJiayi()">Push Jiayi!</button> 
-    <button type="button" onclick="pushHardJiayi()">Push Jiayi hard!</button>
+    <button type="button" onclick="pushHardJiayi()">Push Jiayi!</button>
   </div>
   <div class="infoblock">
-    <div class="blockcontent">
-      <p id="jiayiCount">You have pushed Jiayi 0 times.</p>
-    </div>
+    <p id="jiayiCount">You have pushed Jiayi 0 times!</p>
   </div>
 </div>
 
@@ -115,9 +112,7 @@ He is hardworking, but that's not enough! Click the following buttons to push hi
     <button type="button" onclick="pushYuhang()">Push Yuhang!</button>
   </div>
   <div class="infoblock">
-    <div class="blockcontent">
-      <p id="yuhangCount">You have pushed Yuhang 0 times.</p>
-    </div>
+    <p id="yuhangCount">You have pushed Yuhang 0 times!</p>
   </div>
 </div>
 
@@ -131,7 +126,7 @@ He is hardworking, but that's not enough! Click the following buttons to push hi
     document.getElementById('jiayiCount').innerHTML = "You have pushed Jiayi " + jiayiCount + " times!";
     jiayiTimeout = setTimeout(function() {
       timedCountJiayi()
-    }, 200); // 调整这个值来改变自动推送的速度
+    }, 50); // 调整这个值来改变自动推送的速度
   }
 
   function pushHardJiayi() {
