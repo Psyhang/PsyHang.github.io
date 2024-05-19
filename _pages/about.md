@@ -39,7 +39,8 @@ My research interest lies in the intersection of social psychology, neuroscience
 - *2023.03*: &nbsp;🎉 My first paper modified from my undergraduate thesis was accepted by Computers & Education!
 - *2022.06*: &nbsp;🎓 I got the Bachelor of Science degree in Applied Psychology 🍻 
 
-# 📝 Publications  <a href='https://scholar.google.com/citations?user=DI1-2PwAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+# 📝 Publications 
+<a href='https://scholar.google.com/citations?user=DI1-2PwAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Acta Psychologica 2024</div><img src='images/Childhood.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,7 +87,7 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
 
 # 💬 Conferences and Seminars
 - *2021.05*, Excellent Oral Presentation at the Doctoral Forum of Beijing University’s School of Psychology and Cognitive Science
-- *2020.12*, Second Prize in the 4th Academic Speech Competition in School of Science, Renmin University of China (Topic: “Brain-Computer Interfaces and Our Future”) / | [/video/]（https://www.bilibili.com/video/BV1jw411o7vp/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10）
+- *2020.12*, Second Prize in the 4th Academic Speech Competition in School of Science, Renmin University of China (Topic: “Brain-Computer Interfaces and Our Future”) [video]（https://www.bilibili.com/video/BV1jw411o7vp/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10）
 <div class="embed-container">
   <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=333793049&bvid=BV1jw411o7vp&cid=357843853&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
@@ -103,7 +104,7 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
   <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=543220614&bvid=BV1Ci4y1c7AL&cid=267880090&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
-- *2020.02*, Discussion on the Ethics of Animal Research | [\[video\]](https://www.bilibili.com/video/BV1Z7411P7cU/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10)
+- *2020.02*, Discussion on the Ethics of Animal Research (https://www.bilibili.com/video/BV1Z7411P7cU/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10)
 
 
 # 💪 Push! 
@@ -155,4 +156,4 @@ He is hardworking, but that's not enough! Click the following buttons to push hi
 
 <hr />
 
-Last updated: 18/05/2024
+Last updated: 19/05/2024
