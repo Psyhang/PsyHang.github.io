@@ -39,7 +39,7 @@ My research interest lies in the intersection of social psychology, neuroscience
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Acta Psychologica 2024</div><img src='images/Childhood.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Childhood environmental unpredictability and hoarding: Mediating roles of attachment and security](https://doi.org/10.1016/j.actpsy.2024.10419)
+[Childhood environmental unpredictability and hoarding: Mediating roles of attachment and security](https://doi.org/10.1016/j.actpsy.2024.104198)
 
 Hang Ma<sup>1</sup>, **Yuhang Wu<sup>1</sup>**, Xiaojun Lv, Xiaofan Yang, Ping Hu
 
@@ -81,19 +81,27 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
 
 # 💬 Conferences and Seminars
 - *2021.05*, Excellent Oral Presentation at the Doctoral Forum of Beijing University’s School of Psychology and Cognitive Science
-- *2020.12*, Second Prize in the 4th Academic Speech Competition in School of Science, Renmin University of China (Topic: “Brain-Computer Interfaces and Our Future”) \| [\[video\]](https://www.bilibili.com/video/BV1jw411o7vp/?spm_id_from=333.999.0.0&vd_source=39145d732d0a82fb333be502ffca2133/)
+- *2020.12*, Second Prize in the 4th Academic Speech Competition in School of Science, Renmin University of China (Topic: “Brain-Computer Interfaces and Our Future”)
+<div class="embed-container">
+  <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=333793049&bvid=BV1jw411o7vp&cid=357843853&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
 
 # 💻 Internships
 - *2024.02 - Present*, [Human Emotion Systems Laboratory](https://emotion.utu.fi/), Turku PET Center, Turku, Finland
 
 # 📷 Galleries
+- *2021.08*, Watch Your brain singing! How to generate MIDI melodies from brain signals?
+<div class="embed-container">
+  <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=932400192&bvid=BV1nM4y1L7si&cid=391973735&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
 - *2020.12*, [Social psychology field experiment: Crowd flow and helping behavior](https://www.bilibili.com/video/BV1Ci4y1c7AL/?spm_id_from=333.999.0.0&vd_source=39145d732d0a82fb333be502ffca2133)
 <!-- 在适当的位置添加嵌入的播放窗口 -->
 <div class="embed-container">
   <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=543220614&bvid=BV1Ci4y1c7AL&cid=267880090&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
-- *2020.02*, [Discussion on the Ethics of Animal Research](https://space.bilibili.com/455902031?spm_id_from=333.1365.0.0)
+- *2020.02*, Discussion on the Ethics of Animal Research | [\[video\]](https://www.bilibili.com/video/BV1Ci4y1c7AL/?spm_id_from=333.999.0.0&vd_source=39145d732d0a82fb333be502ffca2133)
 
 
 # 💪 Push! 
