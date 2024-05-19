@@ -29,9 +29,9 @@ My research interest lies in the intersection of social psychology, neuroscience
 - *2024.01 - present*, Exchange student, Department of Psychology, University of Turku, Finland
 - *2018.09 - 2022.06*, B.Sc, Department of Psychology, School of Science, Renmin University of China, China
 
-# 🔬 Lab 
+# 🔬 Lab
+- *2024.02 - Present*, [Human Emotion Systems Laboratory](https://emotion.utu.fi/), Turku PET Center, Turku, Finland 
 - *2019.09 - Present*, [Emotion and Culture Lab](https://www.researchgate.net/lab/qingxuyuwenhuashiyanshi-Ping-Hu), Renmin University of China, China
-- *2024.02 - Present*, [Human Emotion Systems Laboratory](https://emotion.utu.fi/), Turku PET Center, Turku, Finland
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉 A paper was finally accepted by Acta Psychologica after being rejected 11 times! 
@@ -40,6 +40,7 @@ My research interest lies in the intersection of social psychology, neuroscience
 - *2022.06*: &nbsp;🎓 I got the Bachelor of Science degree in Applied Psychology 🍻 
 
 # 📝 Publications 
+
 <a href='https://scholar.google.com/citations?user=DI1-2PwAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Acta Psychologica 2024</div><img src='images/Childhood.png' alt="sym" width="100%"></div></div>
@@ -87,7 +88,7 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
 
 # 💬 Conferences and Seminars
 - *2021.05*, Excellent Oral Presentation at the Doctoral Forum of Beijing University’s School of Psychology and Cognitive Science
-- *2020.12*, Second Prize in the 4th Academic Speech Competition in School of Science, Renmin University of China (Topic: “Brain-Computer Interfaces and Our Future”) [video]（https://www.bilibili.com/video/BV1jw411o7vp/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10）
+- *2020.12*, Second Prize in the 4th Academic Speech Competition in School of Science, Renmin University of China (Topic: “Brain-Computer Interfaces and Our Future”)   [video](https://www.bilibili.com/video/BV1jw411o7vp/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10)
 <div class="embed-container">
   <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=333793049&bvid=BV1jw411o7vp&cid=357843853&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
@@ -104,7 +105,7 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
   <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=543220614&bvid=BV1Ci4y1c7AL&cid=267880090&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
-- *2020.02*, Discussion on the Ethics of Animal Research (https://www.bilibili.com/video/BV1Z7411P7cU/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10)
+- *2020.02*, [Discussion on the Ethics of Animal Research](https://www.bilibili.com/video/BV1Z7411P7cU/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10)
 
 
 # 💪 Push! 
