@@ -24,9 +24,14 @@ I am currently a master student in social psychology at Renmin University of Chi
 My research interest lies in the intersection of social psychology, neuroscience and AI. 
  
 
-# 📖 Educations
-- *2022.09 - present*,     Master student, Department of Psychology, Renmin University of China
-- *2018.09 - 2022.06*, Undergraduate, Department of Psychology, School of Science, Renmin University of China
+# 📖 Education
+- *2022.09 - present*, Master student, Department of Psychology, Renmin University of China, China
+- *2024.01 - present*, Exchange student, Department of Psychology, University of Turku, Finland
+- *2018.09 - 2022.06*, B.Sc, Department of Psychology, School of Science, Renmin University of China, China
+
+# 🔬 Lab 
+- *2019.09 - Present*, [Emotion and Culture Lab](https://www.researchgate.net/lab/qingxuyuwenhuashiyanshi-Ping-Hu), Renmin University of China, China
+- *2024.02 - Present*, [Human Emotion Systems Laboratory](https://emotion.utu.fi/), Turku PET Center, Turku, Finland
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉 A paper was finally accepted by Acta Psychologica after being rejected 11 times! 
@@ -81,27 +86,24 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
 
 # 💬 Conferences and Seminars
 - *2021.05*, Excellent Oral Presentation at the Doctoral Forum of Beijing University’s School of Psychology and Cognitive Science
-- *2020.12*, Second Prize in the 4th Academic Speech Competition in School of Science, Renmin University of China (Topic: “Brain-Computer Interfaces and Our Future”)
+- *2020.12*, Second Prize in the 4th Academic Speech Competition in School of Science, Renmin University of China (Topic: “Brain-Computer Interfaces and Our Future”) / | [/video/]（https://www.bilibili.com/video/BV1jw411o7vp/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10）
 <div class="embed-container">
   <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=333793049&bvid=BV1jw411o7vp&cid=357843853&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
-# 💻 Internships
-- *2024.02 - Present*, [Human Emotion Systems Laboratory](https://emotion.utu.fi/), Turku PET Center, Turku, Finland
-
 # 📷 Galleries
-- *2021.08*, Watch Your brain singing! How to generate MIDI melodies from brain signals?
+- *2021.08*, [Watch your brain singing! How to generate MIDI melodies from brain signals?](https://www.bilibili.com/video/BV1nM4y1L7si/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10)
 <div class="embed-container">
   <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=932400192&bvid=BV1nM4y1L7si&cid=391973735&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
-- *2020.12*, [Social psychology field experiment: Crowd flow and helping behavior](https://www.bilibili.com/video/BV1Ci4y1c7AL/?spm_id_from=333.999.0.0&vd_source=39145d732d0a82fb333be502ffca2133)
+- *2020.12*, [Social psychology field experiment: Crowd flow and helping behavior](https://www.bilibili.com/video/BV1Ci4y1c7AL/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10)
 <!-- 在适当的位置添加嵌入的播放窗口 -->
 <div class="embed-container">
   <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=543220614&bvid=BV1Ci4y1c7AL&cid=267880090&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
-- *2020.02*, Discussion on the Ethics of Animal Research | [\[video\]](https://www.bilibili.com/video/BV1Ci4y1c7AL/?spm_id_from=333.999.0.0&vd_source=39145d732d0a82fb333be502ffca2133)
+- *2020.02*, Discussion on the Ethics of Animal Research | [\[video\]](https://www.bilibili.com/video/BV1Z7411P7cU/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10)
 
 
 # 💪 Push! 
