@@ -83,7 +83,7 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
 
 # 🏆 Honors and Awards
 - National Scholarship (Top 1%), 2023
-- The First-Class Scholarship for Academic Excellence, Renmin University of China, 2023
+- The First-Class Scholarship for Academic Excellence, Renmin University of China, 2023 and 2022
 - The Third-Class Scholarship for Academic Excellence, Renmin University of China, 2019 and 2020 
 
 # 💬 Conferences and Seminars
