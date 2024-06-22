@@ -26,7 +26,7 @@ My research interest lies in the intersection of social psychology, neuroscience
 
 # 📖 Education
 - *2022.09 - present*, Master student, Department of Psychology, Renmin University of China, China
-- *2024.01 - present*, Exchange student, Department of Psychology, University of Turku, Finland
+- *2024.01 - 2024.06*, Exchange student, Department of Psychology, University of Turku, Finland
 - *2018.09 - 2022.06*, B.Sc, Department of Psychology, School of Science, Renmin University of China, China
 
 # 🔬 Lab
@@ -157,4 +157,4 @@ He is hardworking, but that's not enough! Click the following buttons to push hi
 
 <hr />
 
-Last updated: 19/05/2024
+Last updated: 22/06/2024
