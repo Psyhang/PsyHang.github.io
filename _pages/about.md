@@ -107,9 +107,10 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
 
 - *2020.02*, [Discussion on the Ethics of Animal Research](https://www.bilibili.com/video/BV1Z7411P7cU/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10)
 
+<!-- 
 # 📝Unrelated Work
 The paper [*advertisement place is for rent*] are not related to my work in any way but I recommend you to read these papers because (1) they're really good, (2) my friends need some citations
-
+-->
 
 # 💪 Push! 
 
