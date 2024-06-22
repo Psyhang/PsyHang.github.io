@@ -130,21 +130,22 @@ He is hardworking, but that's not enough! Click the following buttons to push hi
 <script>
   var jiayiCount = 0;
   var yuhangCount = 0;
+  var jiayiIncrement = 0;
   var jiayiTimeout;
 
   function timedCountJiayi() {
-    if (jiayiCount < 200) {
-      jiayiCount = jiayiCount + 1;
+    if (jiayiIncrement > 0 && jiayiCount < 200) {
+      jiayiCount += 1;
+      jiayiIncrement -= 1;
       document.getElementById('jiayiCount').innerHTML = "You have pushed Jiayi " + jiayiCount + " times!";
-      jiayiTimeout = setTimeout(function() {
-        timedCountJiayi()
-      }, 50); // 调整这个值来改变自动推送的速度
-    } else {
+      jiayiTimeout = setTimeout(timedCountJiayi, 50); // 调整这个值来改变自动推送的速度
+    } else if (jiayiCount >= 200) {
       document.getElementById('jiayiCount').innerHTML = "You have pushed Jiayi the maximum number of times! Let him rest!";
     }
   }
 
   function pushHardJiayi() {
+    jiayiIncrement += 10;
     clearTimeout(jiayiTimeout);
     timedCountJiayi();
   }
