@@ -14,9 +14,9 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+ni
 
-
-<img src="Nikon_z8.png" alt="Top Image" class="top-image">
+<img src="images/Nikon_z8.png" alt="Top Image" class="top-image">
 
 <span class='anchor' id='about-me'></span>
 
