@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<img src="Nikon_z8.jpg" alt="Profile Picture" style="display: block; margin: 0 auto;">
+<img src="Nikon_z8.png" alt="Top Image" class="top-image">
 
 <span class='anchor' id='about-me'></span>
 
@@ -96,7 +96,7 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
   <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=333793049&bvid=BV1jw411o7vp&cid=357843853&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
-# 📷 Galleries
+# 📷 Gallery
 - *2021.08*, [Watch your brain singing! How to generate MIDI melodies from brain signals?](https://www.bilibili.com/video/BV1nM4y1L7si/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10)
 <div class="embed-container">
   <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=932400192&bvid=BV1nM4y1L7si&cid=391973735&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
