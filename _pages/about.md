@@ -15,6 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
+<img src="Nikon_z8.jpg" alt="Profile Picture" style="display: block; margin: 0 auto;">
+
 <span class='anchor' id='about-me'></span>
 
 Hi there 👋.
