@@ -16,7 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 ni
 
-<img src="images/Nikon_z8.png" alt="Top Image" class="top-image">
+<div class='top-image-container'>
+    <img src='images/Nikon_z8.png' alt='Top Image' class='top-image'>
+</div>
+
 
 <span class='anchor' id='about-me'></span>
 
