@@ -114,17 +114,17 @@ The paper [*advertisement place is for rent*] are not related to my work in any 
 
 # 💪 Push! 
 
-<p>My classmate <a href="https://www.researchgate.net/profile/Jiayi-Jiang-13">Jiayi Jiang</a> is also a master student candidate at RUC.<br />
+<p>My classmate <a href="https://logan0601.github.io/">Guan Luo</a> is a PhD student candidate at THU.<br />
 He is hardworking, but that's not enough! Click the following buttons to push him!</p> 
 
 
 <div class="push-container">
   <div class="push-buttons">
-    <button type="button" onclick="pushHardJiayi()">Push Jiayi</button>
+    <button type="button" onclick="pushHardJiayi()">Push Guan</button>
     <button type="button" onclick="pushYuhang()">Push Yuhang</button>
   </div>
   <div class="infoblock">
-    <p id="jiayiCount">You have pushed Jiayi 0 times!</p>
+    <p id="jiayiCount">You have pushed Guan 0 times!</p>
   </div>
     <div class="infoblock">
     <p id="yuhangCount">You have pushed Yuhang 0 times!</p>
@@ -141,10 +141,10 @@ He is hardworking, but that's not enough! Click the following buttons to push hi
     if (jiayiIncrement > 0 && jiayiCount < 200) {
       jiayiCount += 1;
       jiayiIncrement -= 1;
-      document.getElementById('jiayiCount').innerHTML = "You have pushed Jiayi " + jiayiCount + " times!";
+      document.getElementById('jiayiCount').innerHTML = "You have pushed Guan " + jiayiCount + " times!";
       jiayiTimeout = setTimeout(timedCountJiayi, 50); // 调整这个值来改变自动推送的速度
     } else if (jiayiCount >= 100) {
-      document.getElementById('jiayiCount').innerHTML = "You have pushed Jiayi the maximum number of times! Let him rest!";
+      document.getElementById('jiayiCount').innerHTML = "You have pushed Guan the maximum number of times! Let him rest!";
     }
   }
 
