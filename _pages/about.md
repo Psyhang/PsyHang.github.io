@@ -34,7 +34,7 @@ My research interest lies in the intersection of social psychology, neuroscience
 - *2019.09 - Present*, [Emotion and Culture Lab](https://www.researchgate.net/lab/qingxuyuwenhuashiyanshi-Ping-Hu), Renmin University of China, China
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉 Won the excellent Work of the 4th Social Computing Innovation Competition, CAAI 9th National Conference on Big Data and Social Computing! ヾ(≧▽≦*)o
+- *2024.08*: &nbsp;🎉 Won the excellent Work of the 4th Social Computing Innovation Competition! ヾ(≧▽≦*)o
 - *2024.06*: &nbsp;⛄ Ended my first exchange life in Finland for half a year! What a wonderful and unforgettable journey!
 - *2024.03*: &nbsp;🎉 A paper was finally accepted by Acta Psychologica after being rejected 11 times! 😵
 - *2023.03*: &nbsp;🎉 My first paper modified from my undergraduate thesis was accepted by Computers & Education! 🥳
