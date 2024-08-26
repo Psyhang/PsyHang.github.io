@@ -22,8 +22,6 @@ Hi there 👋. Nice to meet you :D
 I am currently a master student in social psychology at Renmin University of China.
 
 My research interest lies in the intersection of social psychology, neuroscience and AI. 
-
-Feel free to contact me through email if you would like to communicate!  o(*￣▽￣*)ブ
  
 
 # 📖 Education
@@ -37,10 +35,10 @@ Feel free to contact me through email if you would like to communicate!  o(*￣�
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉 Won the excellent Work of the 4th Social Computing Innovation Competition, CAAI 9th National Conference on Big Data and Social Computing! ヾ(≧▽≦*)o
-- *2024.06*: &nbsp;❄  Ended my first exchange life in Finland 🇫🇮 for half a year! What a wonderful and unforgettable journey!
-- *2024.03*: &nbsp;🎉 A paper was finally accepted by Acta Psychologica after being rejected 11 times! 😅😤🤯😵🥳
+- *2024.06*: &nbsp;❄  Ended my first exchange life in Finland for half a year! What a wonderful and unforgettable journey!
+- *2024.03*: &nbsp;🎉 A paper was finally accepted by Acta Psychologica after being rejected 11 times! 😵
 - *2023.12*: &nbsp;🎉 A paper was accepted by Brain Sciences after being rejected 3 times!
-- *2023.03*: &nbsp;🎉 My first paper modified from my undergraduate thesis was accepted by Computers & Education! 🎉
+- *2023.03*: &nbsp;🎉 My first paper modified from my undergraduate thesis was accepted by Computers & Education! 🥳
 - *2022.06*: &nbsp;🎓 I got the Bachelor of Science degree in Applied Psychology 🍻 
 
 # 📝 Publications 
@@ -166,5 +164,9 @@ He is hardworking, but that's not enough! Click the following buttons to push hi
 </script>
 
 <hr />
+
+Feel free to contact me through email if you would like to communicate!  o(*￣▽￣*)ブ
+
+I would appreciate you can invest me as well :D
 
 Last updated: 08/2024
