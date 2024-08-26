@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there 👋.
+Hi there 👋. Nice to meet you :D
 
 I am currently a master student in social psychology at Renmin University of China.
 
 My research interest lies in the intersection of social psychology, neuroscience and AI. 
+
+Feel free to contact me through email if you would like to communicate!  o(*￣▽￣*)ブ
  
 
 # 📖 Education
@@ -34,9 +36,11 @@ My research interest lies in the intersection of social psychology, neuroscience
 - *2019.09 - Present*, [Emotion and Culture Lab](https://www.researchgate.net/lab/qingxuyuwenhuashiyanshi-Ping-Hu), Renmin University of China, China
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉 A paper was finally accepted by Acta Psychologica after being rejected 11 times! 
+- *2024.08*: &nbsp;🎉 Won the excellent Work of the 4th Social Computing Innovation Competition, CAAI 9th National Conference on Big Data and Social Computing! ヾ(≧▽≦*)o
+- *2024.06*: &nbsp;❄  Ended my first exchange life in Finland 🇫🇮 for half a year! What a wonderful and unforgettable journey!
+- *2024.03*: &nbsp;🎉 A paper was finally accepted by Acta Psychologica after being rejected 11 times! 😅😤🤯😵🥳
 - *2023.12*: &nbsp;🎉 A paper was accepted by Brain Sciences after being rejected 3 times!
-- *2023.03*: &nbsp;🎉 My first paper modified from my undergraduate thesis was accepted by Computers & Education!
+- *2023.03*: &nbsp;🎉 My first paper modified from my undergraduate thesis was accepted by Computers & Education! 🎉
 - *2022.06*: &nbsp;🎓 I got the Bachelor of Science degree in Applied Psychology 🍻 
 
 # 📝 Publications 
@@ -87,6 +91,7 @@ Xue, J., Xu, X., **Wu, Y.**, & Hu, P. (2023). Student perceptions of the communi
 - The Third-Class Scholarship for Academic Excellence, Renmin University of China, 2019 and 2020 
 
 # 💬 Conferences and Seminars
+- *2024.08*, Excellent Work of the 4th Social Computing Innovation Competition, CAAI 9th National Conference on Big Data and Social Computing
 - *2021.05*, Excellent Oral Presentation at the Doctoral Forum of Beijing University’s School of Psychology and Cognitive Science
 - *2020.12*, Second Prize in the 4th Academic Speech Competition in School of Science, Renmin University of China (Topic: “Brain-Computer Interfaces and Our Future”)   [video](https://www.bilibili.com/video/BV1jw411o7vp/?share_source=copy_web&vd_source=c2f4c051394e3a2d8f841bcf5a823f10)
 <div class="embed-container">
