@@ -30,7 +30,7 @@ My research interest lies in the intersection of social psychology, neuroscience
 - *2018.09 - 2022.06*, B.Sc, Department of Psychology, School of Science, Renmin University of China, China
 
 # 🔬 Lab
-- *2024.02 - Present*, [Human Emotion Systems Laboratory](https://emotion.utu.fi/), Turku PET Center, Turku, Finland 
+- *2024.02 - 2024.06*, [Human Emotion Systems Laboratory](https://emotion.utu.fi/), Turku PET Center, Turku, Finland 
 - *2019.09 - Present*, [Emotion and Culture Lab](https://www.researchgate.net/lab/qingxuyuwenhuashiyanshi-Ping-Hu), Renmin University of China, China
 
 # 🔥 News
