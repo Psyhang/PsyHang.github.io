@@ -35,7 +35,7 @@ My research interest lies in the intersection of social psychology, neuroscience
 
 # 🔥 News
 - *2025.03*: &nbsp;✨ Our work hit the Cognitive Neuroscience Society (CNS) 2025 conference! 
-- <img src='images/GPT4V.png' alt="sym" width="100%">
+  <img src='images/GPT4V.png' alt="sym" width="50%">
 - *2024.08*: &nbsp;🎉 Won the excellent Work of the 4th Social Computing Innovation Competition! ヾ(≧▽≦*)o
 - *2024.06*: &nbsp;⛄ Ended my first exchange life in Finland for half a year! What a wonderful and unforgettable journey!
 - *2024.03*: &nbsp;🎉 A paper was finally accepted by Acta Psychologica after being rejected 11 times! 😵
